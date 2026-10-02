@@ -1,0 +1,9 @@
+# Ignorer les checkpoints Jupyter
+.ipynb_checkpoints/
+
+# Ignorer les datasets (trop lourds pour GitHub)
+datasets/
+
+# Ignorer les fichiers systèmes
+.DS_Store
+Thumbs.db
